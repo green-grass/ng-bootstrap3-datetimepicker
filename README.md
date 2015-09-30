@@ -1,1 +1,1 @@
-# ng-bootstrap3-datetimepicker
+# ui-bootstrap-datetimepicker
